@@ -1,0 +1,3 @@
+﻿LANG=EN, EOL=LF, ENCODE=UTF8+BOM
+Good morning
+Good evening

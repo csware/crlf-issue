@@ -1,0 +1,3 @@
+﻿LANG=JA, EOL=LF, ENCODE=UTF8+BOM
+こんにちは
+こんばんは
